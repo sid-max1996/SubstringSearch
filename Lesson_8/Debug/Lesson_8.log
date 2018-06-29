@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\учеба\2 курс 2 семестр\lesson_8\lesson_8\main.cpp(18): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\учеба\2 курс 2 семестр\lesson_8\lesson_8\main.cpp(32): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\учеба\2 курс 2 семестр\lesson_8\lesson_8\main.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+  FAM.cpp
+  Создание кода...
+  Lesson_8.vcxproj -> D:\Учеба\2 курс 2 семестр\Lesson_8\Debug\Lesson_8.exe
+  Lesson_8.vcxproj -> D:\Учеба\2 курс 2 семестр\Lesson_8\Debug\Lesson_8.pdb (Full PDB)
